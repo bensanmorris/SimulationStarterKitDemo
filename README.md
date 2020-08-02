@@ -4,7 +4,7 @@ This is a tiny sample game built using SimulationStarterKit.
 
 # Build (Windows)
 
-- Download and install [SimulationStarterKit!](www.fireflytech.org)
+- Download and install [SimulationStarterKit!](http://www.fireflytech.org)
 - Download and install Visual Studio 2017
 - Download and install CMake
 
