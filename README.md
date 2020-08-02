@@ -7,7 +7,7 @@ This is a tiny sample game built using SimulationStarterKit. A [binary release o
 - Download and install [SimulationStarterKit!](http://www.fireflytech.org)
 - Download and install Visual Studio 2017
 - Download and install CMake
--```
+```
 git clone https://github.com/bensanmorris/SimulationStarterKit.git
 cd SimulationStarterKit
 cmake -G "Visual Studio 15 2017" -A x64 -Bbuild
