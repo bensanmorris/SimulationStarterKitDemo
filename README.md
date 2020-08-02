@@ -1,8 +1,8 @@
 # An example demo game
 
-This is a tiny sample game built using SimulationStarterKit.
+This is a tiny sample game built using SimulationStarterKit. A [binary release of the game is available here](https://benmorris.itch.io/sample-game).
 
-# Build (Windows)
+# Build from source (Windows)
 
 - Download and install [SimulationStarterKit!](http://www.fireflytech.org)
 - Download and install Visual Studio 2017
