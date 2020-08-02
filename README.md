@@ -9,7 +9,7 @@ This is a tiny sample game built using SimulationStarterKit.
 - Download and install CMake
 
 ```
-git clone 
+git clone https://github.com/bensanmorris/SimulationStarterKit.git
 cd Game1
 cmake -G "Visual Studio 15 2017" -A x64 -Bbuild
 ```
