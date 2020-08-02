@@ -1,6 +1,7 @@
 # An example demo game
 
-This is a tiny sample game built using SimulationStarterKit. The game was built in the editor and then published as a code project from the editor's ***File -> Publish*** menu. A [binary release of the game is available here](https://benmorris.itch.io/sample-game).
+This is a tiny sample game built using SimulationStarterKit. The game was built in the editor and then published as a code project from the editor's ***File -> Publish*** menu. 
+A [binary release of the game is available here](https://benmorris.itch.io/sample-game).
 
 # Build from source (Windows)
 
