@@ -5,9 +5,14 @@ A [binary release of the game is available here](https://benmorris.itch.io/sampl
 
 # Build from source (Windows)
 
+First, install pre-requisites:
+
 - Download and install [SimulationStarterKit!](http://www.fireflytech.org)
 - Download and install Visual Studio 2017
 - Download and install CMake
+
+Then:
+
 ```
 git clone https://github.com/bensanmorris/SimulationStarterKit.git
 cd SimulationStarterKit
