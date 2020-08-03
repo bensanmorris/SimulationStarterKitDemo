@@ -14,6 +14,6 @@ cd SimulationStarterKit
 cmake -G "Visual Studio 15 2017" -A x64 -Bbuild
 cd build
 cmake --build . --config Release
-Release/Game1.exe
+Release\Game1.exe
 ```
 NB. You can also open build/Project.sln once generated (by cmake -G ... steps above) in Visual Studio 2017 and build under the ***Release or RelWithDebInfo*** build configuration.
