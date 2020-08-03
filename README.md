@@ -8,8 +8,8 @@ A [binary release of the game is available here](https://benmorris.itch.io/sampl
 First, install pre-requisites:
 
 - Download and install [SimulationStarterKit!](http://www.fireflytech.org)
-- Download and install Visual Studio 2017
-- Download and install CMake
+- Download and install [Visual Studio 2017](https://visualstudio.microsoft.com/vs/older-downloads/)
+- Download and install [CMake](https://cmake.org/download/)
 
 Then:
 
