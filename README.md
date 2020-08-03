@@ -16,4 +16,4 @@ cd build
 cmake --build . --config Release
 Release/Game1.exe
 ```
-Open build/Project.sln in Visual Studio 2017 and build under the ***Release or RelWithDebInfo*** build configuration.
+NB. You can also open build/Project.sln once generated (by cmake -G ... steps above) in Visual Studio 2017 and build under the ***Release or RelWithDebInfo*** build configuration.
