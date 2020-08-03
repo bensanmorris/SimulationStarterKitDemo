@@ -12,5 +12,8 @@ A [binary release of the game is available here](https://benmorris.itch.io/sampl
 git clone https://github.com/bensanmorris/SimulationStarterKit.git
 cd SimulationStarterKit
 cmake -G "Visual Studio 15 2017" -A x64 -Bbuild
+cd build
+cmake --build . --config Release
+Release/Game1.exe
 ```
 Open build/Project.sln in Visual Studio 2017 and build under the ***Release or RelWithDebInfo*** build configuration.
