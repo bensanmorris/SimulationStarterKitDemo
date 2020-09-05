@@ -14,8 +14,8 @@ First, install pre-requisites:
 Then:
 
 ```
-git clone https://github.com/bensanmorris/SimulationStarterKit.git
-cd SimulationStarterKit
+git clone https://github.com/bensanmorris/SimulationStarterKitDemo.git
+cd SimulationStarterKitDemo
 cmake -G "Visual Studio 15 2017" -A x64 -Bbuild
 cd build
 cmake --build . --config Release
